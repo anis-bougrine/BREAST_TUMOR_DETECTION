@@ -7,4 +7,4 @@
 - To be able to detect the location of the tumour and not only classify the mommogram, I wrote an algorithm capable of splitting the mommogram into subimages of 299px*299px, predict the presence of tumour on each one than select the one with higher probability to be displayed on user screen with a red square. Please check the sample below or check the DATA_VISUALIZATION.ipynb script.
 - This algorithm detect only one tumour in case there is more than one but this was in purpose to have more reliable predictions and prevent user from false positive classification.
 - Dataset are not provided in this repositories, but if you are interested you can contact me.
-![Alt Text](.SAMPLE.png)
+![Alt Text](./SAMPLE.png)
