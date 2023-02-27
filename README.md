@@ -1,6 +1,6 @@
 # BRESAT_TUMOR_DETECTION
 ##Description
-- fiableThis repository describes the steps followed to train and test a CNN machine learning model for breast tumour detection.
+- This repository describes the steps followed to train and test a CNN machine learning model for breast tumour detection.
 - The repository is written in Python but integrated inside a jupyter notebook to improve visualization.
 - Two pretrained models are used here, RESNET50 of Keras and RESNET18 of pytorch, where transfer learning was applied to fit our application needs.
 - Accuracy got was: 97% train accuracy VS 80% test accuracy on Keras model which can be seen as overfitting, and 93% train accuracy VS 88% test accuracy on Pytorch model which is accepted.
