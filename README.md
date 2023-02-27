@@ -1,5 +1,5 @@
 # BRESAT_TUMOR_DETECTION
-##Description
+## Description
 - This repository describes the steps followed to train and test a CNN machine learning model for breast tumour detection.
 - The repository is written in Python but integrated inside a jupyter notebook to improve visualization.
 - Two pretrained models are used here, RESNET50 of Keras and RESNET18 of pytorch, where transfer learning was applied to fit our application needs.
